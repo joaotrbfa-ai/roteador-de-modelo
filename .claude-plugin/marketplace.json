@@ -1,0 +1,5 @@
+{
+  "name": "roteador-de-modelo",
+  "owner": { "name": "joaotrbfa-ai" },
+  "plugins": [{ "name": "roteador-de-modelo", "source": "./" }]
+}

@@ -1,0 +1,1 @@
+{ "name": "roteador-de-modelo", "version": "0.1.0", "description": "Classifica a dificuldade de cada mensagem e roteia para Haiku, Sonnet ou Opus para economizar tokens." }
